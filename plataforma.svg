@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.667" height="180.667" viewBox="0 0 180.667 180.667"><style><![CDATA[
+	.st0{fill:#808692;}
+	.st1{fill:#B6C4D8;}
+	.st2{fill:#B6E0F2;}
+	.st3{fill:#8C96A5;}
+	.st4{fill:#5BB767;}
+	.st5{fill:#929CA9;}
+	.st6{opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#645E94;}
+	.st9{fill:#DDDDDD;}
+]]>
+
+#interfaz {
+	position:absolute;
+	animation: interfazAnim 4s infinite;
+	-webkit-animation: interfazAnim 4s infinite;
+	-moz-animation: interfazAnim 4s infinite;
+	-o-animation: interfazAnim 4s infinite;
+}
+
+@keyframes interfazAnim {
+	0% {
+	opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+
+@-webkit-keyframes interfazAnim {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+
+
+</style>
+
+<g id="container-dos"><circle class="st2" cx="90.667" cy="91.333" r="81.529"/><path class="st6" d="M9.138 91.333c0 45.03 36.502 81.53 81.53 81.53V9.802c-45.028 0-81.53 36.503-81.53 81.53z"/></g>
+
+<path class="st7" d="M51.667 56.333h78v42h-78z" id="pantalla"/>
+
+<g id="interfaz"><path class="st9" d="M60.667 64.333h60v35h-60z"/><path class="st8" d="M60.667 63.333h60v3h-60z"/><path class="st4" d="M87.667 69.333h29v2h-29z"/><path class="st7" d="M87.667 74.333h29v25h-29z"/><circle class="st4" cx="65.635" cy="73.021" r="1.641"/><circle class="st4" cx="65.634" cy="79.352" r="1.641"/><circle class="st4" cx="65.634" cy="86.269" r="1.641"/><circle class="st4" cx="65.634" cy="92.6" r="1.641"/></g>
+
+<g id="laptop"><path class="st1" d="M130.713 50.333h-80.09c-1.638 0-1.956 1.924-1.956 3.56v50.595c0 1.638.318 3.846 1.956 3.846h80.09c1.636 0 1.954-2.208 1.954-3.846V53.894c0-1.64-.318-3.56-1.954-3.56zm-1.046 48h-78v-42h78v42z"/><circle class="st3" cx="90.667" cy="53.975" r="1.083"/><path class="st3" d="M88.838 100.794h3.66v3.66h-3.66z"/><path id="Keys_2_" class="st5" d="M47.646 107.465h86.04l14.945 9.797H32.704z"/><path id="Body_2_" class="st0" d="M32.703 117.262H148.63v3.336c0 1.186-.966 2.15-2.15 2.15H34.855c-1.184 0-2.15-.967-2.15-2.15v-3.336z"/><g><path id="Load_2_" class="st1" d="M78.958 120.105h23.417v1.49H78.958z"/><path id="Keybody_2_" class="st1" d="M32.703 117.262H148.63v1.667H32.704z"/></g></g></svg>

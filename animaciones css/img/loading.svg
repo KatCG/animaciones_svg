@@ -1,0 +1,62 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px"
+	 height="200px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+
+<style type="text/css">
+	.st0{fill:#B7B7B7;}
+	
+.circle{
+	fill:#747474;
+	animation: circleAnim 1s infinite;
+	-webkit-animation: circleAnim 1s infinite;
+	-moz-animation: circleAnim 1s infinite;
+	-o-animation: circleAnim 1s infinite;
+}
+
+@keyframes circleAnim {
+	0% { opacity: 0; }
+	50% { opacity 1; }
+	100% { opacity 0; }
+}
+
+@-webkit-keyframes circleAnim {
+	0% { opacity: 0; }
+	50% { opacity 1; }
+	100% { opacity 0; }
+}
+
+#c9 { animation-delay: .1s;	-webkit-animation-delay: .1s; }
+#c7 { animation-delay: .2s;	-webkit-animation-delay: .2s; }
+#c5 { animation-delay: .3s;	-webkit-animation-delay: .3s; }
+#c3 { animation-delay: .4s;	-webkit-animation-delay: .4s; }
+#c1 { animation-delay: .5s;	-webkit-animation-delay: .5s; }
+#c2 { animation-delay: .6s;	-webkit-animation-delay: .6s; }
+#c4 { animation-delay: .7s;	-webkit-animation-delay: .7s; }
+#c6 { animation-delay: .8s;	-webkit-animation-delay: .8s; }
+#c8 { animation-delay: .9s;	-webkit-animation-delay: .9s; }
+</style>
+
+<g id="container" class="colors">
+	<circle class="st0" cx="99.5" cy="100.5" r="97.5"/>
+</g>
+<g id="dots" class="colors">
+	<path class="circle" id="c1" d="M101.09,168.89c-0.93-5.45,2.72-10.62,8.17-11.55l0,0c5.44-0.94,10.61,2.72,11.54,8.16l0,0
+		c0.94,5.439-2.71,10.609-8.16,11.55l0,0l0,0l0,0c-0.57,0.1-1.14,0.15-1.7,0.15l0,0C106.16,177.2,101.93,173.76,101.09,168.89z"/>
+	<path class="circle" id="c2" d="M60.86,168.13c-4.81-2.71-6.5-8.811-3.79-13.62l0,0c2.72-4.81,8.82-6.51,13.63-3.79l0,0
+		c4.81,2.71,6.5,8.811,3.79,13.62l0,0c-1.84,3.26-5.23,5.09-8.72,5.09l0,0C64.11,169.43,62.42,169.01,60.86,168.13z"/>
+	<path class="circle" id="c3" d="M144.3,152.2c-4.19-3.601-4.67-9.91-1.08-14.101l0,0c3.6-4.189,9.91-4.67,14.1-1.08l0,0
+		c4.19,3.601,4.681,9.91,1.08,14.11l0,0l0,0l0,0c-1.979,2.3-4.779,3.479-7.59,3.479l0,0C148.5,154.609,146.189,153.819,144.3,152.2z"/>
+	<path class="circle" id="c4" d="M26.58,128.189c-1.93-5.18,0.7-10.939,5.87-12.87l0,0c5.17-1.93,10.93,0.69,12.87,5.86l0,0
+		c1.93,5.18-0.7,10.94-5.87,12.87l0,0c-1.15,0.43-2.34,0.64-3.5,0.64l0,0C31.9,134.689,28.08,132.21,26.58,128.189z"/>
+	<path class="circle" id="c5" d="M157,101.72L157,101.72c0-0.05,0-0.11,0-0.16l0,0c0-5.52,4.449-10.01,9.97-10.03l0,0
+		c5.52-0.01,10.03,4.45,10.03,9.98l0,0c0,0.04,0,0.08,0,0.13l0,0c0,0.021,0,0.05,0,0.08l0,0l0,0l0,0c0,5.521-4.48,10-10,10l0,0
+		C161.479,111.72,157,107.24,157,101.72z"/>
+	<path class="circle" id="c6" d="M32.41,88.3c-5.18-1.92-7.82-7.67-5.9-12.85l0,0c1.92-5.18,7.67-7.82,12.85-5.9l0,0
+		c5.18,1.92,7.82,7.67,5.9,12.85l0,0c-1.49,4.03-5.31,6.53-9.38,6.53l0,0C34.73,88.93,33.56,88.73,32.41,88.3z"/>
+	<path class="circle" id="c7" d="M143.12,65.22c-3.61-4.18-3.141-10.5,1.04-14.11l0,0c4.18-3.61,10.489-3.14,14.1,1.04l0,0
+		c3.61,4.18,3.15,10.5-1.04,14.1l0,0c-1.89,1.64-4.21,2.43-6.53,2.43l0,0C147.89,68.68,145.1,67.51,143.12,65.22z"/>
+	<path class="circle" id="c8" d="M56.93,49.04c-2.73-4.8-1.05-10.91,3.75-13.63l0,0l0,0l0,0c4.8-2.73,10.91-1.05,13.64,3.75l0,0
+		c2.72,4.8,1.04,10.91-3.76,13.63l0,0c-1.56,0.89-3.25,1.31-4.93,1.31l0,0C62.15,54.1,58.77,52.28,56.93,49.04z"/>
+	<path class="circle" id="c9" d="M109.1,46.07c-5.45-0.92-9.11-6.08-8.19-11.53l0,0c0.92-5.44,6.081-9.11,11.53-8.19l0,0
+		c5.44,0.92,9.11,6.08,8.19,11.53l0,0c-0.83,4.88-5.061,8.33-9.85,8.33l0,0C110.22,46.21,109.66,46.17,109.1,46.07z"/>
+</g>
+</svg>
